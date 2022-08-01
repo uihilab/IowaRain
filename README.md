@@ -12,7 +12,7 @@ The criteria for a set of snapshots are defined as follows;
 
 ## Download the Dataset
 
-The dataset can be downloaded from Dropbox as an archive file at https://www.dropbox.com/sh/dxjp7fgm6f6pd0u/AAAGjaquUjvfijD2g5fMFR6Ha. The extracted directory has the following structure;
+The dataset can be downloaded from Dropbox as an archive file at https://mega.nz/file/pDMAAajR#GvUg7JV_HmByDLJYS1w6mEw9nh9o9f_YM_v9jl1R1Cw or https://www.dropbox.com/sh/dxjp7fgm6f6pd0u/AAAGjaquUjvfijD2g5fMFR6Ha. The extracted directory has the following structure;
 
 ```
 rainfall_events

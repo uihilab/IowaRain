@@ -45,8 +45,10 @@ datetime.datetime(2016, 4, 6, 2, 10)
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgements
+## Acknowledgements & Citation
 
 This project is developed by the University of Iowa Hydroinformatics Lab (UIHI Lab):
 
 https://hydroinformatics.uiowa.edu/.
+
+>Sit, M., Seo, B.C. and Demir, I., 2021. Iowarain: A statewide rain event dataset based on weather radars and quantitative precipitation estimation. arXiv preprint arXiv:2107.03432.
